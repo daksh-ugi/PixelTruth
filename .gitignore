@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+real_and_fake_face_detection/
+dataset.zip
+*.h5
